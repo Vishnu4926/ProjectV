@@ -1,0 +1,224 @@
+[
+    {
+        "timestamp": "2024-12-28 17:45:02",
+        "cpu_usage": 37.3,
+        "memory_usage": 74.6,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2024-12-28 17:50:04",
+        "cpu_usage": 47.3,
+        "memory_usage": 78.6,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2024-12-28 17:55:03",
+        "cpu_usage": 53.1,
+        "memory_usage": 65.2,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2024-12-28 18:00:03",
+        "cpu_usage": 27.4,
+        "memory_usage": 65.8,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2024-12-28 18:05:03",
+        "cpu_usage": 34.7,
+        "memory_usage": 65.9,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 18:10:02",
+        "cpu_usage": 27.2,
+        "memory_usage": 65.2,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 18:15:03",
+        "cpu_usage": 18.9,
+        "memory_usage": 63.4,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 18:20:03",
+        "cpu_usage": 16.5,
+        "memory_usage": 63.0,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 18:25:03",
+        "cpu_usage": 34.9,
+        "memory_usage": 64.3,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:10:03",
+        "cpu_usage": 35.4,
+        "memory_usage": 64.7,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:14:27",
+        "cpu_usage": 2.3,
+        "memory_usage": 65.0,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:15:02",
+        "cpu_usage": 35.5,
+        "memory_usage": 66.2,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:20:02",
+        "cpu_usage": 30.1,
+        "memory_usage": 67.9,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:22:02",
+        "cpu_usage": 5.9,
+        "memory_usage": 67.1,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:24:01",
+        "cpu_usage": 3.6,
+        "memory_usage": 66.5,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:26:01",
+        "cpu_usage": 15.4,
+        "memory_usage": 66.7,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:28:02",
+        "cpu_usage": 1.5,
+        "memory_usage": 66.5,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:30:01",
+        "cpu_usage": 13.6,
+        "memory_usage": 66.7,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:32:01",
+        "cpu_usage": 0.8,
+        "memory_usage": 66.6,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:34:02",
+        "cpu_usage": 1.8,
+        "memory_usage": 67.0,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:36:02",
+        "cpu_usage": 39.8,
+        "memory_usage": 68.1,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:38:01",
+        "cpu_usage": 7.6,
+        "memory_usage": 66.9,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:40:01",
+        "cpu_usage": 58.3,
+        "memory_usage": 74.7,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:42:02",
+        "cpu_usage": 1.3,
+        "memory_usage": 67.6,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:44:01",
+        "cpu_usage": 2.3,
+        "memory_usage": 80.4,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2024-12-28 19:46:02",
+        "cpu_usage": 35.3,
+        "memory_usage": 68.7,
+        "disk_usage": 24.3
+    },
+    {
+        "timestamp": "2024-12-28 19:48:02",
+        "cpu_usage": 3.0,
+        "memory_usage": 68.8,
+        "disk_usage": 24.3
+    },
+    {
+        "timestamp": "2024-12-28 19:50:02",
+        "cpu_usage": 23.3,
+        "memory_usage": 71.0,
+        "disk_usage": 24.3
+    },
+    {
+        "timestamp": "2024-12-28 19:52:02",
+        "cpu_usage": 1.8,
+        "memory_usage": 68.9,
+        "disk_usage": 24.3
+    },
+    {
+        "timestamp": "2025-01-03 20:02:22",
+        "cpu_usage": 99.4,
+        "memory_usage": 70.7,
+        "disk_usage": 24.0
+    },
+    {
+        "timestamp": "2025-01-03 20:04:03",
+        "cpu_usage": 96.7,
+        "memory_usage": 78.1,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2025-01-03 20:06:03",
+        "cpu_usage": 64.6,
+        "memory_usage": 64.2,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2025-01-03 20:08:04",
+        "cpu_usage": 79.0,
+        "memory_usage": 64.9,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2025-01-03 20:10:03",
+        "cpu_usage": 94.0,
+        "memory_usage": 68.5,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2025-01-03 20:12:02",
+        "cpu_usage": 89.6,
+        "memory_usage": 63.6,
+        "disk_usage": 24.1
+    },
+    {
+        "timestamp": "2025-01-03 20:14:02",
+        "cpu_usage": 22.0,
+        "memory_usage": 67.6,
+        "disk_usage": 24.2
+    },
+    {
+        "timestamp": "2025-01-03 20:16:03",
+        "cpu_usage": 45.1,
+        "memory_usage": 67.4,
+        "disk_usage": 24.2
+    }
+]
